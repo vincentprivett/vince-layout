@@ -16,4 +16,4 @@ This is my personal layout and is subject to evolve further with my tastes.
 
 # Image
 
-![vine 3x5+1 Corne layout](./vince-corne.svg)
+![vince 3x5+1 Corne layout](./vince-corne.svg)
